@@ -24,7 +24,7 @@ node server/app.js [listen-port(default 9000)]
 Build the image and run:
 
 ```
-docker build -t sparkline-server
+docker build -t sparkline-server .
 docker run -d -p 9000:9000 sparkline-server:latest
 ```
 See [https://hub.docker.com/_/node/](https://hub.docker.com/_/node/)
