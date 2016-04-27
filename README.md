@@ -1,5 +1,8 @@
 # Sparkline Server
 ----------------------
+
+[![Dependency Status](https://david-dm.org/mdome7/sparkline-server.svg)](https://david-dm.org/mdome7/sparkline-server)
+
 An HTTP server that can generate sparklines that can be used in other websites or apps.
 Give it some values and parameters, it will give you back a sparkline in the following supported formats:
 - image/svg+xml - SVG text
